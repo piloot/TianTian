@@ -1,2 +1,2 @@
-# tiantian
+# TianTian
 My first GitHub
